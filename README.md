@@ -57,15 +57,7 @@
 ### 🤖 AI / ML & Data Science
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=scikitlearn" alt="Scikit-Learn" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="Streamlit" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python" width="40" height="40"/><img src="https://skillicons.dev/icons?i=scikitlearn" width="40" height="40"/><img src="https://skillicons.dev/icons?i=anaconda" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40"/><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="40" height="40"/>
 </p>
 
 ### 🧰 Other Tools
